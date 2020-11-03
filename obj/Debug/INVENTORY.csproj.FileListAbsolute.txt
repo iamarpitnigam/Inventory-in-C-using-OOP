@@ -1,0 +1,10 @@
+C:\Users\Arpit\source\repos\INVENTORY\obj\Debug\INVENTORY.csprojAssemblyReference.cache
+C:\Users\Arpit\source\repos\INVENTORY\obj\Debug\INVENTORY.Form1.resources
+C:\Users\Arpit\source\repos\INVENTORY\obj\Debug\INVENTORY.Properties.Resources.resources
+C:\Users\Arpit\source\repos\INVENTORY\obj\Debug\INVENTORY.csproj.GenerateResource.cache
+C:\Users\Arpit\source\repos\INVENTORY\obj\Debug\INVENTORY.csproj.CoreCompileInputs.cache
+C:\Users\Arpit\source\repos\INVENTORY\bin\Debug\INVENTORY.exe.config
+C:\Users\Arpit\source\repos\INVENTORY\bin\Debug\INVENTORY.exe
+C:\Users\Arpit\source\repos\INVENTORY\bin\Debug\INVENTORY.pdb
+C:\Users\Arpit\source\repos\INVENTORY\obj\Debug\INVENTORY.exe
+C:\Users\Arpit\source\repos\INVENTORY\obj\Debug\INVENTORY.pdb
